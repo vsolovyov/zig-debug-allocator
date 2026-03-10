@@ -1,0 +1,6 @@
+.{
+    .name = .repro_debug_allocator_gvisor,
+    .version = "0.0.0",
+    .fingerprint = 0xd9d41d04140644cb,
+    .paths = .{""},
+}
